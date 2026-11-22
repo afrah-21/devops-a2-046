@@ -13,3 +13,4 @@ This project is a personal portfolio website created using HTML and CSS.
 ## Running the project
 The website is served using Nginx inside a Docker container.
 Webhook push event tested successfully.
+Webhook pull request event testing.
